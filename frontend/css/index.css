@@ -36,3 +36,23 @@ h1 {
 body{
     margin:0px;
 }
+
+.card{
+    border: 2px solid black;
+    width:300px;
+    text-align: center;
+    margin-top:30px;
+    margin-left:580px;
+    
+}
+
+.card img{
+    
+    width:100%;
+    
+}
+
+.card button{
+    margin:20px;
+    padding:10px;
+}
